@@ -70,7 +70,7 @@ echo "============================="
 
 sleep 2
 
-echo "== SMS Bomber Indonesia =="
+echo "== ∆Project Hckwkbom Sm4nS4∆ =="
 
 sleep 0.7
 
